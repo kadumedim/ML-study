@@ -1,2 +1,2 @@
-# ML-study
- Machine Learning Study using PyTorch
+# Machine Learning Study
+ Learning Artificial Intelligence and Machine Learning in General with a Snake Game driven Agent.
